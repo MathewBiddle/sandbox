@@ -1,0 +1,286 @@
+Collection,Title,Governance
+A01,International Coastal Atlas Network Coastal Erosion Global Thesaurus,International Coastal Atlas Network
+A02,Oregon Coastal Atlas Coastal Erosion Thesaurus markup terms,Oregon State Coastal Management Program
+A03,Oregon Coastal Atlas Coastal Erosion Thesaurus discovery terms,Oregon State Coastal Management Program
+A04,MIDA Coastal Erosion Thesaurus,Coastal and Marine resources Centre
+A05,AtlantOS Essential Variables,British Oceanographic Data Centre
+B02,BODC-annotated certified reference materials,British Oceanographic Data Centre
+B03,BODC-annotated reference material classifiers,British Oceanographic Data Centre
+B04,BODC people titles,British Oceanographic Data Centre
+B05,BODC governance roles,British Oceanographic Data Centre
+B06,BODC data and metadata integrity checks,British Oceanographic Data Centre
+B07,Sampling net gear deployment vocabulary,British Oceanographic Data Centre
+B09,Celtic Seas Partnership data owner nations bordering MSFD Celtic Seas Marine Region,British Oceanographic Data Centre
+B11,BODC Standard Operating Procedures and Protocols for environmental observations,British Oceanographic Data Centre
+B12,BODC measurement numeric attribute types,British Oceanographic Data Centre
+B20,Celtic Seas Partnership stakeholder sectors,British Oceanographic Data Centre
+B21,Celtic Seas Partnership scale,British Oceanographic Data Centre
+B22,Celtic Seas Partnership governance mechanisms,British Oceanographic Data Centre
+B39,NMF-SS Research Vessel underway variable NetCDF vocabulary,British Oceanographic Data Centre
+B75,BODC Organisations,British Oceanographic Data Centre
+B76,BODC Platform Models,British Oceanographic Data Centre
+C00,BODC Seafloor Depth Data Sources,British Oceanographic Data Centre
+C10,BODC series feature types,British Oceanographic Data Centre
+C16,SeaDataNet sea areas,SeaDataNet
+C17,ICES Platform Codes,International Council for the Exploration of the Sea
+C18,Intergovernmental Oceanographic Commission countries,International Council for the Exploration of the Sea
+C19,SeaVoX salt and fresh water body gazetteer,SeaDataNet and MarineXML Vocabulary Content Governance Group
+C30,Active vocabulary content governance authorities,British Oceanographic Data Centre
+C31,World Meteorological Organisation voluntary observing ship category,World Meteorological Organisation
+C32,International Standards Organisation countries,International Organization for Standardization
+C33,NERC DataGrid data production tool category,Natural Environment Research Council
+C34,Activity purpose categories,SeaDataNet
+C35,European Nature Information System Level 3 Habitats,European Environment Agency
+C36,Monitoring activity legislative drivers,SeaDataNet
+C37,Ten-degree Marsden Squares,SeaDataNet
+C38,SeaDataNet Ports Gazetteer,SeaDataNet
+C39,World Meteorological Organisation sea states,World Meteorological Organisation
+C40,Bonn Agreement pollution report accuracy,Bonn Agreement
+C41,BODC marine pollution sources,British Oceanographic Data Centre
+C43,BODC oilspill quantity,British Oceanographic Data Centre
+C45,Marine Strategy Framework Directive descriptors 2010/477/EU,European Commission
+C46,Marine Strategy Framework Directive criteria 2010/477/EU,European Commission
+C47,Marine Strategy Framework Directive indicators 2010/477/EU,European Commission
+C48,MEDIN Data Guidelines,MEDIN Standards Group
+C59,BODC organisation roles within activities and projects,British Oceanographic Data Centre
+C60,NERC DataGrid vocabulary term relationships,British Oceanographic Data Centre
+C61,BODC post town names,British Oceanographic Data Centre
+C62,BODC administrative region names,British Oceanographic Data Centre
+C64,United Kingdom Charting Progress 2 sea regions,MEDIN Standards Group
+C67,BODC series parameter collection names,British Oceanographic Data Centre
+C71,BODC organisation categories,British Oceanographic Data Centre
+C72,BODC core failure codes,British Oceanographic Data Centre
+C75,BODC Organisation Histories,British Oceanographic Data Centre
+C77,SeaDataNet Cruise Summary Report data categories,SeaDataNet
+C86,SeaDataNet contact and security access roles,SeaDataNet
+C87,BODC project roles,British Oceanographic Data Centre
+C88,BODC asset access right roles,British Oceanographic Data Centre
+C89,BODC dataset roles,British Oceanographic Data Centre
+C96,BODC data model spatial objects,British Oceanographic Data Centre
+C97,NERC Vocabulary Server Version 1 mappings index,British Oceanographic Data Centre
+C98,Vocabulary Server list subject categories,British Oceanographic Data Centre
+D01,DCAT Themes for Linked Data Representation of the SeaDataNet EDMED Catalogue,SeaDataNet
+E01,ESEAS active tide gauge sites,British Oceanographic Data Centre
+E02,Processing Levels for Earth Observing System Standard Data Products,National Aeronautics and Space Administration
+F02,SeaDataCloud Flow Cytometry Standardised Cluster Names,SeaDataNet
+G01,CI_DateTypeCode,International Organization for Standardization
+G02,CI_OnlineFunctionCode,International Organization for Standardization
+G03,CI_PresentationFormCode,International Organization for Standardization
+G04,CI_RoleCode,International Organization for Standardization
+G05,DQ_EvaluationMethodTypeCode,International Organization for Standardization
+G06,DS_AssociationTypeCode,International Organization for Standardization
+G07,DS_InitiativeTypeCode,International Organization for Standardization
+G08,MD_CellGeometryCode,International Organization for Standardization
+G09,MD_CharacterSetCode,International Organization for Standardization
+G10,MD_ClassificationCode,International Organization for Standardization
+G11,MD_CoverageContentTypeCode,International Organization for Standardization
+G12,MD_DatatypeCode,International Organization for Standardization
+G13,MD_DimensionNameTypeCode ,International Organization for Standardization
+G14,MD_GeometricObjectTypeCode,International Organization for Standardization
+G15,MD_ImagingConditionCode ,International Organization for Standardization
+G17,MD_MaintenanceFrequencyCode,International Organization for Standardization
+G18,MD_MediumFormatCode,International Organization for Standardization
+G20,MD_ObligationCode,International Organization for Standardization
+G21,MD_PixelOrientationCode,International Organization for Standardization
+G22,MD_ProgressCode,International Organization for Standardization
+G23,MD_RestrictionCode,International Organization for Standardization
+G25,MD_ScopeCode,International Organization for Standardization
+G26,MD_SpatialRepresentationTypeCode,International Organization for Standardization
+G28,MD_TopologyLevelCode,International Organization for Standardization
+G29,MX_ScopeCode,International Organization for Standardization
+G30,MD_SpatialRepresentationTypeCode (DO NOT USE - use G26 instead),British Oceanographic Data Centre
+GBX,I18n system English (UK) language terms,British Oceanographic Data Centre
+GGB,GEBCO_2019 Grid source data types,British Oceanographic Data Centre
+GGS,GEBCO 30-second grid data sources,British Oceanographic Data Centre
+GGT,GEBCO Grid Source Data Type Identifier,Nippon Foundation-GEBCO Seabed 2030 Project Team
+GS1,Geo-Seas features of interest,Geo-Seas
+GS2,Geo-Seas observed properties,Geo-Seas
+GS3,Geo-Seas adjusted Folk sediment lithology classes,Geo-Seas
+GS4,Geo-Seas geological sample colours,Geo-Seas
+GS5,Geo-Seas sediment grain-size skewness descriptors,Geo-Seas
+GS6,Geo-Seas sediment grain-size kurtosis descriptors,Geo-Seas
+GS8,Geo-Seas Seismic Methods,Geo-Seas
+GS9,Geo-Seas Seismic Survey Dimensionality,Geo-Seas
+GSA,Geo-Seas Seismic Data Product Types,Geo-Seas
+GSB,Geo-Seas Seismic Receiver Types,Geo-Seas
+GSC,MGD77 Bathymetry Sound Velocity Correction Codes,Geo-Seas
+GXM,BODC I18n term usage,British Oceanographic Data Centre
+H01,EMODnet micro-litter types,SeaDataNet
+H02,EMODnet micro-litter shapes,SeaDataNet
+H03,EMODnet micro-litter size classes,SeaDataNet
+H04,EMODnet micro-litter colour classes,SeaDataNet
+H05,EMODnet micro-litter polymer type,SeaDataNet
+HA2,EMODnet human activity categories,SeaDataNet
+I01,Subset of GRIB Table 4.2 - Parameter number by product discipline and parameter category,World Meteorological Organisation
+I02,GRIB Table 4.201 (Precipitation type),World Meteorological Organisation
+I03,Wisconsin Coastal Atlas Vocabulary,University of Wisconsin Sea Grant Institute
+I10,INSPIRE service types,European Commission
+I11,INSPIRE Management and Reporting Control Type,European Commission
+I12,INSPIRE Management and Reporting Day Type,European Commission
+I13,INSPIRE Management and Reporting Environmental Domain Area,European Commission
+I14,INSPIRE Management and Reporting Controlled Activity Type,European Commission
+I15,INSPIRE Management and Reporting Zone Type,European Commission
+L02,SeaDataNet Geospatial Feature Types,SeaDataNet
+L03,SeaDataNet Measurement Periodicity Categories,SeaDataNet
+L04,Matrix Categories,British Oceanographic Data Centre
+L05,SeaDataNet device categories,SeaDataNet
+L06,SeaVoX Platform Categories,SeaDataNet and MarineXML Vocabulary Content Governance Group
+L07,SeaDataNet data access mechanisms,SeaDataNet
+L08,SeaDataNet Data Access Restriction Policies,SeaDataNet
+L10,SeaDataNet geographic co-ordinate reference frames,SeaDataNet
+L11,SeaDataNet depth measurement reference planes,SeaDataNet
+L12,SeaDataNet parameter quality control procedures,SeaDataNet
+L13,SeaVoX Vertical Co-ordinate Coverages,SeaDataNet and MarineXML Vocabulary Content Governance Group
+L14,SeaDataNet Activity Operational Stati,SeaDataNet
+L15,SeaDataNet quality management system accreditations,SeaDataNet
+L18,SeaDataNet Cruise Summary Report quantification units,SeaDataNet
+L19,SeaDataNet keyword types,SeaDataNet
+L20,SeaDataNet measurand qualifier flags,SeaDataNet
+L21,SeaDataNet device category types,SeaDataNet
+L22,SeaVoX Device Catalogue,SeaDataNet and MarineXML Vocabulary Content Governance Group
+L23,SeaDataNet metadata entities,SeaDataNet
+L24,SeaDataNet data transport formats,SeaDataNet
+L26,EDIOS permitted sampling interval units,SeaDataNet
+L27,SeaVoX data quality control flagging conventions,SeaDataNet and MarineXML Vocabulary Content Governance Group
+L30,MEDATLAS Data Centres,Systèmes d'Informations Scientifiques pour la Mer
+L31,Geo-Seas data object quality flags,Geo-Seas
+L33,WMO C3 vocabulary of XBT data types,World Meteorological Organisation
+L34,IODE Primary Level quality flags,International Oceanographic Commission
+L35,SenseOcean device developers and manufacturers,British Oceanographic Data Centre
+L36,Marine Strategy Framework Directive descriptors 2017/848,European Commission
+L37,Marine Strategy Framework Directive criteria 2017/848,European Commission
+L38,Marine Strategy Framework Directive indicators 2017/848,European Commission
+M01,MEDIN data format categories,MEDIN Standards Group
+M03,The Crown Estate Renewable Energy Development Areas,The Crown Estate
+M04,The Crown Estate Renewable Energy Development Phases,The Crown Estate
+M05,MEDIN socio-economic governance objective categories,MEDIN Standards Group
+M06,MEDIN monitoring activity categories,MEDIN Standards Group
+M09,MEDIN ecosystem valuation method types,MEDIN Standards Group
+M10,MEDIN ecosystem valuation methods,MEDIN Standards Group
+M11,MEDIN ecosystem service types,MEDIN Standards Group
+M12,JNCC categories of human activity in the marine environment,MEDIN Standards Group
+M13,JNCC standard list of human activities in the marine environment,MEDIN Standards Group
+M14,OSPAR list of defined pressures on the marine environment,MEDIN Standards Group
+M15,OSPAR list of themes of defined pressures on the marine environment,MEDIN Standards Group
+M16,Type of geotechnical investigation carried out at a site,MEDIN Standards Group
+M17,Type of sample collected during a geotechnical investigation,MEDIN Standards Group
+M18,Type of container used to hold a physical sample collected during a geotechnical site investigation,MEDIN Standards Group
+M20,Marine Habitat Classification for Britain and Ireland Version 04.05,Joint Nature Conservation Committee
+M21,Marine Habitat Classification for Britain and Ireland Version 15.03,Joint Nature Conservation Committee
+M22,OSPAR List of Threatened and/or Declining Species and Habitats,OSPAR Commission
+M23,HELCOM 'HUB' Underwater Biotope and Habitat Classification System,Baltic Marine Environment Protection Commission
+M24,Marine Habitat Classification for Britain and Ireland Version 97.06,Joint Nature Conservation Committee
+M25,"Geospatial discovery metadata standards, specifications and profiles recognised by MEDIN",MEDIN Standards Group
+M26,The Crown Estate Seabed Development Phases,The Crown Estate
+M27,The Crown Estate Seabed Development Areas,The Crown Estate
+MVB,Movebank Attribute Dictionary,Max Planck Institute of Animal Behavior
+N01,MEDIN metadata record availability,British Oceanographic Data Centre
+N02,NERC DataGrid Recognised Formats,Natural Environment Research Council
+N03,Climate Science Modelling Language supported feature types,Natural Environment Research Council
+N04,NERC DataGrid on-line reference types,Natural Environment Research Council
+N05,NERC data discovery service input metadata document standards,Natural Environment Research Council
+N06,NERC Environmental Data Centres DataCite General Resource Types,Natural Environment Research Council
+OG1,Ocean Glider Network Parameter Usage Vocabulary,Ocean Glider Data Management Task Team
+P01,BODC Parameter Usage Vocabulary,British Oceanographic Data Centre
+P02,SeaDataNet Parameter Discovery Vocabulary,SeaDataNet
+P03,SeaDataNet Agreed Parameter Groups,SeaDataNet
+P04,Global Change Master Directory Science Keywords V5,Global Change Master Directory
+P05,International Standards Organisation ISO19115 Topic Categories,International Organization for Standardization
+P06,BODC-approved data storage units,British Oceanographic Data Centre
+P07,Climate and Forecast Standard Names,Climate and Forecast Standard Names Committee
+P08,SeaDataNet Parameter Disciplines,SeaDataNet
+P09,MEDATLAS Parameter Usage Vocabulary,Systèmes d'Informations Scientifiques pour la Mer
+P10,Global Change Master Directory Instrument Keywords,Global Change Master Directory
+P11,Global Change Master Directory Science Keyword categories,Global Change Master Directory
+P12,Global Change Master Directory Science Keyword topics,Global Change Master Directory
+P13,Global Change Master Directory Science Keyword terms,Global Change Master Directory
+P14,Global Change Master Directory Science Keyword variables,Global Change Master Directory
+P15,Climate and Forecast Cell Methods,Climate and Forecast Standard Names Committee
+P17,Partnership for Observation of the Global Ocean ships of interest,Partnership for Observation of the Global Oceans
+P18,Global Change Master Directory Chronostratigraphic Units,Global Change Master Directory
+P19,Global Change Master Directory platforms,Global Change Master Directory
+P20,Global Change Master Directory URL content types,Global Change Master Directory
+P21,Marisaurus Thesaurus,British Oceanographic Data Centre
+P22,"GEMET - INSPIRE themes, version 1.0",European Commission
+P23,MEDIN Parameter Discipline Keywords,MEDIN Standards Group
+P24,Units of measure dimensions,British Oceanographic Data Centre
+P25,NETMAR aggregation parameters,NETMAR Ontology Governance Group
+P26,ISO19119 geographic services taxonomy,International Organization for Standardization
+P27,Oil spill spillet location,METEO FRANCE
+P28,Cedre pollution site cleanup operational stati,Centre de documentation de recherche et d'expérimentations sur les pollutions accidentelles des eaux
+P29,Climate and Forecast Area Types,Climate and Forecast Standard Names Committee
+P30,Climate and Forecast Standardized Region Names,Climate and Forecast Standard Names Committee
+P35,EMODnet Chemistry aggregated parameter names,EMODNet Chemistry Lot
+P36,EMODnet Chemistry chemical groups,EMODNet Chemistry Lot
+P37,Climate and Forecast Calendars,Climate and Forecast Standard Names Committee
+P38,Climate and Forecast Vertical Co-ordinate Coverages,Climate and Forecast Standard Names Committee
+P64,Global Change Master Directory Science Keywords V6,Global Change Master Directory
+Q01,OBIS sampling instruments and methods attributes,Ocean Biogeographic Information System
+R01,Argo data type,Argo Data Management Team
+R03,Argo parameter codes,Argo Data Management Team
+R04,Argo data centres and institutions,Argo Data Management Team
+R05,Argo position accuracy,Argo Data Management Team
+R06,Argo data state indicators,Argo Data Management Team
+R07,Argo history action codes,Argo Data Management Team
+R08,Argo instrument types,Argo Data Management Team
+R09,Argo positioning system,Argo Data Management Team
+R10,Argo transmission systems,Argo Data Management Team
+R11,Argo real-time quality-control test identifiers,Argo Data Management Team
+R12,Argo history processing step codes,Argo Data Management Team
+R13,Argo ocean area codes and boundary definitions,Argo Data Management Team
+R16,Argo vertical sampling schemes,Argo Data Management Team
+R19,Argo STATUS flags,Argo Data Management Team
+R20,Argo GROUNDED flags,Argo Data Management Team
+R21,Argo status flag on the Representative Park Pressure (RPP),Argo Data Management Team
+R22,Argo platform family,Argo Data Management Team
+R23,Argo platform type,Argo Data Management Team
+R24,Argo platform maker,Argo Data Management Team
+R25,Argo sensor types,Argo Data Management Team
+R26,Argo sensor manufacturers,Argo Data Management Team
+R27,Argo sensor models,Argo Data Management Team
+RD2,Argo delayed-mode quality control measurement flags,Argo Data Management Team
+RP2,Argo profile quality control flags,Argo Data Management Team
+RR2,Argo real-time quality control measurement flags,Argo Data Management Team
+S01,BODC parameter semantic model component names,British Oceanographic Data Centre
+S02,BODC parameter semantic model relationships between what theme and where theme,British Oceanographic Data Centre
+S03,BODC parameter semantic model sample preparation entity descriptions,British Oceanographic Data Centre
+S04,BODC parameter semantic model analytical method entity descriptions,British Oceanographic Data Centre
+S05,BODC parameter semantic model data processing entity descriptions,British Oceanographic Data Centre
+S06,BODC parameter semantic model parameter entity names,British Oceanographic Data Centre
+S07,BODC parameter semantic model parameter statistic,British Oceanographic Data Centre
+S09,BODC parameter semantic model biological entity size terms,British Oceanographic Data Centre
+S10,BODC parameter semantic model biological entity sex category terms,British Oceanographic Data Centre
+S11,BODC parameter semantic model biological entity development stage terms,British Oceanographic Data Centre
+S12,BODC parameter semantic model biological entity subcomponent terms,British Oceanographic Data Centre
+S13,BODC parameter semantic model biological entity subgroup terms,British Oceanographic Data Centre
+S14,BODC parameter semantic model biological entity morphology terms,British Oceanographic Data Centre
+S15,BODC parameter semantic model biological entity colour terms,British Oceanographic Data Centre
+S18,BODC parameter semantic model physical entity names,British Oceanographic Data Centre
+S19,BODC parameter semantic model physical entity subgroup names,British Oceanographic Data Centre
+S20,BODC parameter semantic model physical entity datum names,British Oceanographic Data Centre
+S21,BODC parameter semantic model sphere names,British Oceanographic Data Centre
+S22,BODC parameter semantic model sphere subgroup names,British Oceanographic Data Centre
+S23,BODC semantic model sphere phase names,British Oceanographic Data Centre
+S24,BODC semantic model sphere phase subgroup names,British Oceanographic Data Centre
+S25,BODC parameter semantic model biological entity names,British Oceanographic Data Centre
+S26,BODC parameter semantic model matrices,British Oceanographic Data Centre
+S27,BODC parameter semantic model chemical substances,British Oceanographic Data Centre
+S28,Seaglider Guidance and Control Phase Settings,British Oceanographic Data Centre
+S29,BODC parameter semantic model physical entity compound names,British Oceanographic Data Centre
+S30,BODC parameter semantic model relationships between biological entities,British Oceanographic Data Centre
+T01,British Antarctic Survey research topics,UK Polar Data Centre
+T02,British Antarctic Survey data catalogue collections,UK Polar Data Centre
+V12,SeaDataNet Vocabularies,SeaDataNet
+V22,SeaDataNet CDI/CSR ISO Code List collections,SeaDataNet
+V23,SeaDataNet GMX and imported ISO Code List collections,SeaDataNet
+W01,SeaDataNet Sensor Web Enablement and SensorML type vocabulary,SeaDataNet
+W02,SeaDataNet Sensor Web Enablement and SensorML sub-type vocabulary,SeaDataNet
+W03,SensorML History Event Types,Sensor Web Enablement Marine Profiles
+W04,SensorML Capability Section Terms,Sensor Web Enablement Marine Profiles
+W05,SensorML Characteristic Section Terms,Sensor Web Enablement Marine Profiles
+W06,SensorML Classification Section Terms,Sensor Web Enablement Marine Profiles
+W07,SensorML Identification Section Terms,Sensor Web Enablement Marine Profiles
+W08,SensorML Contact Section Terms,Sensor Web Enablement Marine Profiles
+W09,Sensor Web Enablement Observations and Measurements Section Terms,Sensor Web Enablement Marine Profiles
+W10,SensorML Output Section Data Interface Terms,Sensor Web Enablement Marine Profiles
+W11,SensorML Event Classification Terms,Sensor Web Enablement Marine Profiles

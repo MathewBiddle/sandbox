@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:Deployment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:ns1="http://tethys.sdsu.edu/schema/" xmlns:xlink="http://www.w3.org/1999/xlink"
+                xsi:schemaLocation="http://tethys.sdsu.edu/schema/Deployment.xsd">
+    <Project>SanctSound</Project>
+    <DeploymentID>02</DeploymentID>
+    <DeploymentAlias>MB01_02</DeploymentAlias>
+    <Site>MB01</Site>
+    <SiteAliases>
+        <Site>Monterey-Soquel Cyns</Site>
+    </SiteAliases>
+    <Platform>Mooring with acoustic release</Platform>
+    <Region></Region>
+    <Instrument>
+        <Type>SoundTrap 500</Type>
+        <ID>671391784</ID>
+    </Instrument>
+    <SamplingDetails>
+        <Channel>
+            <ChannelNumber>1</ChannelNumber>
+            <SensorNumber>1</SensorNumber>
+            <Start>2019-04-08T19:00:09</Start>
+            <End>2019-08-14T17:00:09</End>
+            <Sampling>
+                <Regimen>
+                    <TimeStamp>2019-04-08T19:00:09</TimeStamp>
+                    <SampleRate_kHz>48</SampleRate_kHz>
+                    <SampleBits>16</SampleBits>
+                </Regimen>
+            </Sampling>
+            <Gain>
+                <Regimen>
+                    <TimeStamp>2019-04-08T19:00:09</TimeStamp>
+                    <Gain_dB>-1.8</Gain_dB>
+                </Regimen>
+            </Gain>
+            <DutyCycle>
+                <Regimen>
+                    <TimeStamp>2019-04-08T19:00:09</TimeStamp>
+                    <RecordingDuration_m>60</RecordingDuration_m>
+                    <RecordingInterval_m>0</RecordingInterval_m>
+                </Regimen>
+            </DutyCycle>
+        </Channel>
+    </SamplingDetails>
+    <QualityAssurance>
+        <Description>
+            <Objectives></Objectives>
+            <Abstract></Abstract>
+            <Method></Method>
+        </Description>
+        <ResponsibleParty
+                xlink:title="Tetyana Margolina"
+                xlink:href="http://www.ngdc.noaa.gov/docucomp/968e3d93-8a5b-4957-b464-17e0457e7a6e"/>
+        <Quality>
+            <Start>2019-04-08T19:00:09</Start>
+            <End>2019-08-14T17:00:09</End>
+            <Category>Good</Category>
+            <FrequencyRange>
+                <Low_Hz>20</Low_Hz>
+                <High_Hz>24000</High_Hz>
+            </FrequencyRange>
+            <Channel>1</Channel>
+            <Comment></Comment>
+        </Quality>
+    </QualityAssurance>
+    <DeploymentDetails>
+        <Longitude>-121.976</Longitude>
+        <Latitude>36.798</Latitude>
+        <DepthInstrument_m>-116.5</DepthInstrument_m>
+        <DepthBottom_m>-120</DepthBottom_m>
+        <TimeStamp>2019-04-08T17:26:09</TimeStamp>
+        <AudioTimeStamp>2019-04-08T19:00:09</AudioTimeStamp>
+        <Vessel>R/V Fulmar</Vessel>
+    </DeploymentDetails>
+    <PackageDetails>
+        <Title>SanctSound</Title>
+        <Purpose>Evaluation of baseline soundscape conditions and components using standardized methodologies to support
+            comparisons among sites both within one sanctuary and among sanctuaries.
+        </Purpose>
+        <Abstract>As part of a settlement agreement, the U.S. National Oceanographic and Atmospheric Administration
+            (NOAA) and the U.S. Navy engaged in a multi-year effort to monitor underwater sound within the U.S. National
+            Marine Sanctuary System. The effort was titled SanctSound, short for Sanctuary Soundscapes. The agencies
+            worked with numerous scientific partners to study sound within seven national marine sanctuaries and one
+            marine national monument, including waters off the U.S. east coast, west coast and Hawaiian archipelago.
+            SanctSound was designed to provide standardized baseline information important for contextualizing both how
+            much sound is introduced within these protected areas by specific sources and the potential for each type of
+            source to impact the areas� marine taxa and habitats. Approximately 30 recording locations were selected
+            where sound conditions and acoustically sensitive species are of management interest. Deployment rotations
+            used identical temporary bottom-mounted sensors at these locations between fall 2018 and spring 2022. A web
+            portal was developed to allow access to products from these data. More information is available at
+            https://sanctuaries.noaa.gov/science/monitoring/sound/
+        </Abstract>
+        <DataComment></DataComment>
+        <ResponsibleParty xlink:title="Tetyana Margolina (meta author)"
+                          xlink:href="http://www.ngdc.noaa.gov/docucomp/968e3d93-8a5b-4957-b464-17e0457e7a6e"/>
+        <ResponsibleParty
+                xlink:title="NOAA/ONMS (originator)"
+                xlink:href="http://www.ngdc.noaa.gov/docucomp/e25024af-586e-49db-894d-d60a7965ffce"/>
+        <ResponsibleParty
+                xlink:title="US Navy LMR (originator)"
+                xlink:href="http://www.ngdc.noaa.gov/docucomp/d187d42d-e4bf-4a76-a7a4-626095554ee8"/>
+        <ResponsibleParty xlink:title="NOAA/ONMS (funding source)"
+                          xlink:href="http://www.ngdc.noaa.gov/docucomp/e25024af-586e-49db-894d-d60a7965ffce"/>
+        <ResponsibleParty xlink:title="US Navy LMR (funding source)"
+                          xlink:href="http://www.ngdc.noaa.gov/docucomp/d187d42d-e4bf-4a76-a7a4-626095554ee8"/>
+    </PackageDetails>
+    <Sensors>
+        <Audio>
+            <Number>1</Number>
+            <SensorID>671391784</SensorID>
+            <Geometry>
+                <x_m></x_m>
+                <y_m></y_m>
+                <z_m>3.5</z_m>
+            </Geometry>
+            <Name>SoundTrap 500</Name>
+            <Description>Sound Trap 500 STD with built-in hydrophone and temperature logger</Description>
+            <HydrophoneID></HydrophoneID>
+            <PreampID></PreampID>
+        </Audio>
+        <Sensor>
+            <Number>1</Number>
+            <SensorID>101573</SensorID>
+            <Geometry>
+                <x_m></x_m>
+                <y_m></y_m>
+                <z_m></z_m>
+            </Geometry>
+            <Name>RBR Solo_T</Name>
+            <Description>RBR Solo T temperature logger sampling 1 smaple every 5 seconds</Description>
+            <Type></Type>
+            <Properties></Properties>
+        </Sensor>
+    </Sensors>
+</ns1:Deployment>

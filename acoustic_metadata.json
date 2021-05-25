@@ -1,0 +1,163 @@
+{
+  "DATA_COLLECTION_NAME": "SanctSound_MB01_02",
+  "PUBLISH_DATE": "2020-04-13",
+  "PROJECT_NAME": "SanctSound",
+  "DEPLOYMENT_NAME": "02",
+  "DEPLOYMENT_ALIAS": "MB01_02",
+  "SITE": "MB01",
+  "SITE_ALIASES": [
+    "Monterey-Soquel Cyns"
+  ],
+  "PLATFORM_NAME": "Mooring",
+  "INSTRUMENT_TYPE": "SoundTrap 500",
+  "INSTRUMENT_ID": "671391784",
+  "TITLE": "SanctSound",
+  "ABSTRACT": "As part of a settlement agreement, the U.S. National Oceanographic and Atmospheric Administration (NOAA) and the U.S. Navy engaged in a multi-year effort to monitor underwater sound within the U.S. National Marine Sanctuary System. The effort was titled SanctSound, short for Sanctuary Soundscapes. The agencies worked with numerous scientific partners to study sound within seven national marine sanctuaries and one marine national monument, including waters off the U.S. east coast, west coast and Hawaiian archipelago. SanctSound was designed to provide standardized baseline information important for contextualizing both how much sound is introduced within these protected areas by specific sources and the potential for each type of source to impact the areas\u2019 marine taxa and habitats. Approximately 30 recording locations were selected where sound conditions and acoustically sensitive species are of management interest. Deployment rotations used identical temporary bottom-mounted sensors at these locations between fall 2018 and spring 2022. A web portal was developed to allow access to products from these data. More information is available at https://sanctuaries.noaa.gov/science/monitoring/sound/ ",
+  "PURPOSE": "Evaluation of baseline soundscape conditions and components using standardized methodologies to support comparisons among sites both within one sanctuary and among sanctuaries.",
+  "DATA_COMMENT": "",
+  "CHANNELS": {
+    "1": {
+      "CHANNEL_START": "2019-04-08T19:00:09",
+      "CHANNEL_END": "2019-08-14T17:00:09",
+      "SENSOR": "1",
+      "SAMPLING_DETAILS": {
+        "SAMPLING": [
+          {
+            "START": "2019-04-08T19:00:09",
+            "END": "2019-08-14T17:00:09",
+            "SAMPLE_RATE": "48",
+            "SAMPLE_BITS": "16"
+          }
+        ],
+        "GAIN": [
+          {
+            "START": "2019-04-08T19:00:09",
+            "END": "2019-08-14T17:00:09",
+            "GAIN_dB": "-1.8"
+          }
+        ],
+        "DUTY_CYCLE": [
+          {
+            "START": "2019-04-08T19:00:09",
+            "END": "2019-08-14T17:00:09",
+            "DURATION": "60",
+            "INTERVAL": "0"
+          }
+        ]
+      }
+    }
+  },
+  "QUALITY_DETAILS": {
+    "analyst": "Tetyana Margolina",
+    "analyst_uuid": "968e3d93-8a5b-4957-b464-17e0457e7a6e",
+    "quality_details": [
+      {
+        "quality": "Good",
+        "low_freq": "20",
+        "high_freq": "24000",
+        "start": "2019-04-08T19:00:09",
+        "end": "2019-08-14T17:00:09",
+        "comments": "",
+        "channels": "1"
+      }
+    ],
+    "method": "",
+    "objectives": "",
+    "abstract": ""
+  },
+  "DEPLOYMENT": {
+    "DEPLOYMENT_TIME": "2019-04-08T17:26:09",
+    "AUDIO_START": "2019-04-08T19:00:09",
+    "RECOVERY_TIME": "2019-08-22T17:40:09",
+    "AUDIO_END": "2019-08-14T17:00:09",
+    "DEPLOY_TYPE": "Stationary Marine",
+    "SEA_AREA": "North Pacific Ocean",
+    "DEPLOY_LAT": "36.798",
+    "DEPLOY_LON": "-121.976",
+    "DEPLOY_SHIP": "R/V Fulmar",
+    "DEPLOY_INSTRUMENT_DEPTH": "-116.5",
+    "DEPLOY_BOTTOM_DEPTH": "-120",
+    "RECOVER_LAT": "36.798",
+    "RECOVER_LON": "-121.976",
+    "RECOVER_SHIP": "NOAA's R/V R4107",
+    "RECOVER_INSTRUMENT_DEPTH": "-116.5",
+    "RECOVER_BOTTOM_DEPTH": "-120"
+  },
+  "SCIENTISTS": [
+    {
+      "name": "John Joseph",
+      "uuid": "99c3813f-6f18-445f-91e9-9e68adb8f150"
+    },
+    {
+      "name": "Tetyana Margolina",
+      "uuid": "968e3d93-8a5b-4957-b464-17e0457e7a6e"
+    }
+  ],
+  "SPONSORS": [
+    {
+      "name": "NOAA/ONMS",
+      "uuid": "e25024af-586e-49db-894d-d60a7965ffce"
+    },
+    {
+      "name": "US Navy LMR",
+      "uuid": "d187d42d-e4bf-4a76-a7a4-626095554ee8"
+    }
+  ],
+  "FUNDERS": [
+    {
+      "name": "NOAA/ONMS",
+      "uuid": "e25024af-586e-49db-894d-d60a7965ffce"
+    },
+    {
+      "name": "US Navy LMR",
+      "uuid": "d187d42d-e4bf-4a76-a7a4-626095554ee8"
+    }
+  ],
+  "METADATA_AUTHOR": {
+    "NAME": "Tetyana Margolina",
+    "UUID": "968e3d93-8a5b-4957-b464-17e0457e7a6e",
+    "ORGANIZATION": "Naval Postgraduate School",
+    "POSITION": "Faculty Associate - Research",
+    "STREET": [
+      "Dept. Oceanography",
+      "1 University Circle"
+    ],
+    "CITY": "Monterey",
+    "STATE": "CA",
+    "ZIP": "93943",
+    "COUNTRY": "USA",
+    "EMAIL": "tmargoli@nps.edu",
+    "PHONE": "831-224-0130"
+  },
+  "SENSORS": {
+    "AUDIO": [
+      {
+        "type": "Audio Sensor",
+        "number": "1",
+        "id": "671391784",
+        "name": "SoundTrap 500",
+        "pos_x": "",
+        "pos_y": "",
+        "pos_z": "3.5",
+        "description": "Sound Trap 500 STD with built-in hydrophone and temperature logger",
+        "HYDRO_ID": "1065",
+        "PRE_ID": "N/A"
+      }
+    ],
+    "DEPTH": [],
+    "OTHER": [
+      {
+        "type": "Other Sensor",
+        "number": "1",
+        "id": "101573",
+        "name": "RBR Solo_T",
+        "pos_x": "",
+        "pos_y": "",
+        "pos_z": "",
+        "description": "RBR Solo T temperature logger sampling 1 smaple every 5 seconds",
+        "SENSOR_TYPE": "",
+        "PROPERTIES": ""
+      }
+    ]
+  }
+}
