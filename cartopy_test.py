@@ -3,6 +3,7 @@ import cartopy.crs as ccrs
 import cartopy.feature as cfeature
 from matplotlib.offsetbox import AnchoredText
 
+import this
 
 ax = plt.axes(projection=ccrs.PlateCarree())
 ax.set_extent([80, 170, -45, 30])
