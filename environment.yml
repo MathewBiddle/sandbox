@@ -1,0 +1,25 @@
+name: sandbox
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - sparqlwrapper
+  - pandas
+  - requests
+  - lxml
+  - xlrd
+  - geopandas
+  - matplotlib
+  - descartes
+  - cartopy
+  - jupyter
+  - xarray
+  - netcdf4
+  - erddapy
+  - folium
+  - beautifulsoup4
+  - owslib
+  - rasterio
+  - pyworms
+  - geoplot
