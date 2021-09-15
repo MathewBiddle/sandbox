@@ -18,7 +18,7 @@ def shape2geojson(infile: str):
             return ("File %s not found!" % infile)
 
         else:
-            shpfile = gpd.read_file(infile)
+            shpfile = gpd.read_file(infile).to_crs("EPSG:4326")
             outfile = infile.replace('.shp', '.geojson')
             shpfile.to_file(outfile, driver='GeoJSON')
 
