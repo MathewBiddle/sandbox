@@ -5,7 +5,7 @@
 !wget -r -nH -e robots=off --cut-dirs=3 --no-parent --reject "index.html*" https://www.ncei.noaa.gov/data/oceans/ioos/atn/ -P ncei/
 
 import xarray as xr
-ds = xr.open_mfdataset('prod/*.nc', 
+ds = xr.open_mfdataset('ncei/atn/*/*.nc', 
                        combine='nested', 
                        concat_dim = 'obs',
                        combine_attrs='drop_conflicts',
