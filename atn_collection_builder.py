@@ -1,4 +1,8 @@
-!wget -r -nH -e robots=off --cut-dirs=1 --no-parent --reject "index.html*" https://ncei.axiomdatascience.com/atn/prod/
+# Axiom data can be downloaded from:
+!wget -r -nH -e robots=off --cut-dirs=1 --no-parent --reject "index.html*" https://ncei.axiomdatascience.com/atn/prod/ -P axiom
+
+# NCEI data can be downloaded from:
+!wget -r -nH -e robots=off --cut-dirs=3 --no-parent --reject "index.html*" https://www.ncei.noaa.gov/data/oceans/ioos/atn/ -P ncei/
 
 import xarray as xr
 ds = xr.open_mfdataset('prod/*.nc', 
